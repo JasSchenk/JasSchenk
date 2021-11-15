@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JasSchenk
 - 👀 I’m interested in ResearchDataManagement, DMPs, project management, CMS etc.
-- 🌱 I’m currently learning markdown & GIT
-- 💞️ I’m looking to collaborate on RDM Trainings, Data Stewardship
 - 📫 How to reach me sschenk5@uni-koeln.de
 
 <!---
